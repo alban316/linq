@@ -1,0 +1,5 @@
+C:\Users\jbrugger\repo\linq\linq2\bin\Debug\linq2.exe.config
+C:\Users\jbrugger\repo\linq\linq2\bin\Debug\linq2.exe
+C:\Users\jbrugger\repo\linq\linq2\bin\Debug\linq2.pdb
+C:\Users\jbrugger\repo\linq\linq2\obj\Debug\linq2.exe
+C:\Users\jbrugger\repo\linq\linq2\obj\Debug\linq2.pdb
